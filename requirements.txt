@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.9
+plotly>=5.20          # carte interactive
+python-calamine>=0.2   # lecture du classeur AAV de l'Insee (styles Excel non lisibles par openpyxl)
+geopandas>=1.0         # carte et rattachement spatial des bornes (facultatif sans contours)
+jupyter
